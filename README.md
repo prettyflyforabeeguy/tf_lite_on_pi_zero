@@ -1,11 +1,10 @@
 This example project using Python 3.7 is for runing a TensorFlow Lite model on a Raspberry Pi Zero W.
-We'll be using tensorflow model and example code created by Microsoft Lobe.
+We'll be using a tensorflow model and example code created by Microsoft Lobe.
 
 This same code will work on any Pi device as long as the correct .whl file is installed.
 
-We will be using a model that has 3 classifications:  HoneyBee, NoBee, and SomethingElse
+This model has 3 classifications:  HoneyBee, NoBee, and SomethingElse
 Image 1 should detect as HoneyBee, Image 2 should detect as NoBee, and Image 3 should detect as SomethingElse
-
 
 To get started:
 1. Install the latest version of Rasbian OS
