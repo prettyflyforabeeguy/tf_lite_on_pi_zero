@@ -1,4 +1,4 @@
-This example project using Python 3.7 is for runing a Tenssor Flow Lite model on a Raspberry Pi Zero W.
+This example project using Python 3.7 is for runing a TensorFlow Lite model on a Raspberry Pi Zero W.
 We'll be using tensorflow model and example code created by Microsoft Lobe.
 
 This same code will work on any Pi device as long as the correct .whl file is installed.
